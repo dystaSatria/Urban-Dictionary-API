@@ -37,13 +37,14 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
        - global.css
        - layout.js
        - page.js
-- **/Veriler 2**
+  - **/Veriler 2**
   - **/lung_image_sets**
        - **/lung_squamous cell carcinoma**
        - **/lung_benign tissue**
        - **/lung_adenocarcinoma**
 - `README.md`
-- `LICENSE`  
+- `LICENSE`
+- package-lock.json
 
 
 ---
