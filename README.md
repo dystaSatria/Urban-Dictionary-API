@@ -54,7 +54,7 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 - **Kullanıcı Tarafından Yazılan Tanımlar:** İngilizce argo ve sokak dilindeki kelimeler için zengin, kullanıcı odaklı içerik.
 - **Arama Fonksiyonu:** İstediğiniz kelimeleri veya ifadeleri hızlıca bulmanızı sağlayan güçlü bir arama özelliği.
-- **Mobil Dostu Tasarım:** Herhangi bir cihazdan rahat erişim için optimize edilmiş, kullanımı kolay bir arayüz.
+- **Uyarlanabilirlik:** Herhangi bir cihazdan rahat erişim için optimize edilmiş, kullanımı kolay bir arayüz.
 
 ### Neden "Ingilizce Kentsal Sözlük"?
 
