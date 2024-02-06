@@ -14,8 +14,8 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 |------------|----------------------|----------------------|
 | 1200505011  | İcabi Kırgız		| Yazılım Mühendisliği     | 
 | 5200505062  | Reza Dysta Satria   | Yazılım Mühendisliği  |
-| 1200505024     | Selim Tekin   | Yazılım Mühendisliği     [Github](https://github.com/balfatih)     |
-| 1200505069     | Yavuz Koz   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
+| 1200505024     | Selim Tekin   | Yazılım Mühendisliği     |
+| 1200505069     | Yavuz Koz   | Yazılım Mühendisliği     | 
 
 ---
 
