@@ -54,6 +54,5 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 - **Arama Fonksiyonu:** İstediğiniz kelimeleri veya ifadeleri hızlıca bulmanızı sağlayan güçlü bir arama özelliği.
 - **Uyarlanabilirlik:** Herhangi bir cihazdan rahat erişim için optimize edilmiş, kullanımı kolay bir arayüz.
 
-
-
+## Lisans
 
