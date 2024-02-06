@@ -32,12 +32,7 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 
 ### Neden "Ingilizce Kentsal Sözlük"?
 
-Bu platform, sadece bir sözlükten daha fazlasıdır; İngilizce'nin gayri resmi ve argo yönlerini keşfetmek isteyen herkes için bir topluluktur. Akademisyenler, dil öğrencileri ve kültürel meraklılar için değerli bir kaynak olma amacı taşır.
+Bu site, sadece bir sözlükten daha fazlasıdır; İngilizce'nin gayri resmi ve argo yönlerini keşfetmek isteyen herkes için bir topluluktur. Akademisyenler, dil öğrencileri ve kültürel meraklılar için değerli bir kaynak olma amacı taşır.
 
-### Katkıda Bulunun
 
-"Ingilizce Kentsal Sözlük" topluluğunun bir parçası olun! Dilin bu dinamik yönlerini keşfetmeye ve paylaşmaya yönelik tutkunuzla, platformumuzu daha da zenginleştirebilirsiniz.
 
----
-
-Gelişmelerden haberdar olmak ve daha fazlasını keşfetmek için bizi takip edin. "Ingilizce Kentsal Sözlük", İngilizce'nin kültürünü ve gayri resmi dillerini tanıtmada sizi davet ediyor. Yeni kelimeler öğrenin, kendi tanımlarınızı paylaşın ve dilin bu canlı yönünü keşfedin!
