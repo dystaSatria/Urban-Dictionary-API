@@ -24,6 +24,29 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 - **Next.js:** Modern web uygulamalarını geliştirirken karşılaşılan yüksek performans, SEO ve kullanıcı deneyimi gibi ihtiyaçları karşılamak için tercih edilen bir React framework'üdür.
 - **Tailwind CSS:** Frontend geliştirmeyi hızlandıran ve sitenin görünümünü kolayca özelleştirmeye olanak tanıyan bir CSS framework'üdür.
 
+## Proje Dosya Yapısı
+
+Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
+
+- `yapaySinir.py`
+- `cnn.py`
+- `resnet.py`
+- **/Veriler**
+  - **/lung_image_sets**
+       - **/lung_squamous cell carcinoma**
+       - **/lung_benign tissue**
+       - **/lung_adenocarcinoma**
+- **/Veriler 2**
+  - **/lung_image_sets**
+       - **/lung_squamous cell carcinoma**
+       - **/lung_benign tissue**
+       - **/lung_adenocarcinoma**
+- `README.md`
+- `LICENSE`  
+
+
+---
+
 ### Özellikler
 
 - **Kullanıcı Tarafından Yazılan Tanımlar:** İngilizce argo ve sokak dilindeki kelimeler için zengin, kullanıcı odaklı içerik.
