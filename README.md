@@ -21,8 +21,9 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 
 ### Teknolojilerimiz
 
-- **Next.js:** Modern web uygulamalarını geliştirirken karşılaşılan yüksek performans, SEO ve kullanıcı deneyimi gibi ihtiyaçları karşılamak için tercih edilen bir React framework'üdür.
-- **Tailwind CSS:** Frontend geliştirmeyi hızlandıran ve sitenin görünümünü kolayca özelleştirmeye olanak tanıyan bir CSS framework'üdür.
+- **Next.js**
+- **Tailwind CSS**
+- **Urban Dictionary RapidAPI**
 
 ## Proje Dosya Yapısı
 
