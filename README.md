@@ -11,8 +11,8 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 ## Grup Bilgileri
 
 | Öğrenci No | Adı Soyadı           | Bölüm          		   |  Grup Üyelerinin Github Profilleri                 |
-|------------|----------------------|--------------------------|---------------|---------------------------------------------------|
-| 1200505011  | İcabi Kırgız		| Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
+|------------|----------------------|----------------------|---------------------------------------------------|
+| 1200505011  | İcabi Kırgız		| Yazılım Mühendisliği     | [Github](https://github.com/balfatih)     |
 | 5200505062  | Reza Dysta Satria   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
 | 1200505024     | Selim Tekin   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
 | 1200505069     | Yavuz Koz   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
