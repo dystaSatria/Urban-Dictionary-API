@@ -28,9 +28,9 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 
 Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 
-- next
-- node_modules
-- public
+- **/next**
+- **/node_modules**
+- **/public**
 - **/Veriler**
   - **/lung_image_sets**
        - **/lung_squamous cell carcinoma**
