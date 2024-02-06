@@ -56,3 +56,5 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 ## Lisans
 
+Bu proje [MIT Lisansı](https://license.md/licenses/mit-license/) altında lisanslanmıştır. Katkıda bulunmak isterseniz, lütfen katkıda bulunma rehberimize bakın.
+
