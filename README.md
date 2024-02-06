@@ -2,8 +2,6 @@
 
 Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve öğrenmek isteyenler için benzersiz bir kaynaktır. Kullanıcılarımız tarafından yazılan tanımlarla, dilin en canlı ve dinamik yönlerine bir site yaptik.
 
-## Hakkımızda
-
 "Ingilizce Kentsal Sözlük", kullanıcıların İngilizce'nin sokak dilindeki kelimeleri ve ifadeleri genellikle mizahi veya ironik bir şekilde tanımlamalarına olanak tanıyan bir web sitesidir. Bu platform, kültürler arası iletişimde sıkça karşılaşılan gayri resmi ifadeleri anlama ve kullanma konusunda değerli bir kaynaktır.
 
 Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüksek performanslı ve SEO dostu bir web sitesi sunmayı amaçlar. Bu bağlamda, web sitemiz Next.js ve Tailwind CSS kullanılarak geliştirilmiştir.
@@ -19,7 +17,7 @@ Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüks
 
 ---
 
-### Teknolojilerimiz
+## Kullandigimiz Teknikler
 
 - **Next.js**
 - **Tailwind CSS**
