@@ -31,7 +31,7 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 - **/next**
 - **/node_modules**
 - **/public**
-- **/Veriler**
+- **/src**
   - **/lung_image_sets**
        - **/lung_squamous cell carcinoma**
        - **/lung_benign tissue**
