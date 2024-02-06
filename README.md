@@ -32,10 +32,11 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 - **/node_modules**
 - **/public**
 - **/src**
-  - **/lung_image_sets**
-       - **/lung_squamous cell carcinoma**
-       - **/lung_benign tissue**
-       - **/lung_adenocarcinoma**
+  - **/app**
+       - favicon.ico
+       - global.css
+       - layout.js
+       - page.js
 - **/Veriler 2**
   - **/lung_image_sets**
        - **/lung_squamous cell carcinoma**
