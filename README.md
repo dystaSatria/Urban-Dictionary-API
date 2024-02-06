@@ -1,4 +1,4 @@
-# Ingilizce Kentsal Sözlük
+# Ingilizce Kentsal Sözlük - Urban Dictionary RAPIDAPI
 
 Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve öğrenmek isteyenler için benzersiz bir kaynaktır. Kullanıcılarımız tarafından yazılan tanımlarla, dilin en canlı ve dinamik yönlerine bir site yaptik.
 
