@@ -8,6 +8,17 @@ Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve
 
 Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüksek performanslı ve SEO dostu bir web sitesi sunmayı amaçlar. Bu bağlamda, web sitemiz Next.js ve Tailwind CSS kullanılarak geliştirilmiştir.
 
+## Grup Bilgileri
+
+| Öğrenci No | Adı Soyadı           | Bölüm          		   |  Grup Üyelerinin Github Profilleri                 |
+|------------|----------------------|--------------------------|---------------|---------------------------------------------------|
+| 1200505011  | İcabi Kırgız		| Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
+| 5200505062  | Reza Dysta Satria   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
+| 1200505024     | Selim Tekin   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
+| 1200505069     | Yavuz Koz   | Yazılım Mühendisliği     | PROJE 13       | [Github](https://github.com/balfatih)     |
+
+---
+
 ### Teknolojilerimiz
 
 - **Next.js:** Modern web uygulamalarını geliştirirken karşılaşılan yüksek performans, SEO ve kullanıcı deneyimi gibi ihtiyaçları karşılamak için tercih edilen bir React framework'üdür.
