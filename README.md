@@ -48,15 +48,12 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 ---
 
-### Özellikler
+## Özellikler
 
 - **Kullanıcı Tarafından Yazılan Tanımlar:** İngilizce argo ve sokak dilindeki kelimeler için zengin, kullanıcı odaklı içerik.
 - **Arama Fonksiyonu:** İstediğiniz kelimeleri veya ifadeleri hızlıca bulmanızı sağlayan güçlü bir arama özelliği.
 - **Uyarlanabilirlik:** Herhangi bir cihazdan rahat erişim için optimize edilmiş, kullanımı kolay bir arayüz.
 
-### Neden "Ingilizce Kentsal Sözlük"?
-
-Bu site, sadece bir sözlükten daha fazlasıdır; İngilizce'nin gayri resmi ve argo yönlerini keşfetmek isteyen herkes için bir topluluktur. Akademisyenler, dil öğrencileri ve kültürel meraklılar için değerli bir kaynak olma amacı taşır.
 
 
 
