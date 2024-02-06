@@ -1,6 +1,6 @@
 # Ingilizce Kentsal Sözlük
 
-Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve öğrenmek isteyenler için benzersiz bir kaynaktır. Kullanıcılarımız tarafından yazılan tanımlarla, dilin en canlı ve dinamik yönlerine bir pencere açıyoruz.
+Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve öğrenmek isteyenler için benzersiz bir kaynaktır. Kullanıcılarımız tarafından yazılan tanımlarla, dilin en canlı ve dinamik yönlerine bir site yaptik.
 
 ## Hakkımızda
 
