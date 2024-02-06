@@ -37,8 +37,12 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
        - global.css
        - layout.js
        - page.js
-
-- `README.md`
+- .eslintrc.json
+- .gitignore
+- jsconfig.json
+- next.config.mjs
+- postcss.config.js
+- tailwind.config.js
 - package.json
 - package-lock.json
 
