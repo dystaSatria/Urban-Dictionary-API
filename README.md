@@ -43,7 +43,7 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
        - **/lung_benign tissue**
        - **/lung_adenocarcinoma**
 - `README.md`
-- `LICENSE`
+- package.json
 - package-lock.json
 
 
