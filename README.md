@@ -6,17 +6,6 @@ Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve
 
 Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüksek performanslı ve SEO dostu bir web sitesi sunmayı amaçlar. Bu bağlamda, web sitemiz Next.js ve Tailwind CSS kullanılarak geliştirilmiştir.
 
-## Grup Bilgileri
-
-| Öğrenci No | Adı Soyadı           | Bölüm          		   | 
-|------------|----------------------|----------------------|
-| 1200505011  | İcabi Kırgız		| Yazılım Mühendisliği     | 
-| 5200505062  | Reza Dysta Satria   | Yazılım Mühendisliği  |
-| 1200505024     | Selim Tekin   | Yazılım Mühendisliği     |
-| 1200505069     | Yavuz Koz   | Yazılım Mühendisliği     | 
-
----
-
 ## Kullandigimiz Teknikler
 
 - **Next.js**
