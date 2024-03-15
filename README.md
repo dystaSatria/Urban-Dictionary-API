@@ -1,20 +1,20 @@
-# Ingilizce Kentsal Sözlük - Urban Dictionary RAPIDAPI
+# English Urban Dictionary - Urban Dictionary RAPIDAPI
 
-Bu site, İngilizce argo ve sokak dilindeki kelimeleri keşfetmek, paylaşmak ve öğrenmek isteyenler için benzersiz bir kaynaktır. Kullanıcılarımız tarafından yazılan tanımlarla, dilin en canlı ve dinamik yönlerine bir site yaptik.
+This site serves as a unique resource for those looking to discover, share, and learn about English slang and street language. With definitions written by our users, we have created a platform that captures the most vibrant and dynamic aspects of language.
 
-"Ingilizce Kentsal Sözlük", kullanıcıların İngilizce'nin sokak dilindeki kelimeleri ve ifadeleri genellikle mizahi veya ironik bir şekilde tanımlamalarına olanak tanıyan bir web sitesidir. Yaptigimiz, kültürler arası iletişimde sıkça karşılaşılan gayri resmi ifadeleri anlama ve kullanma konusunda değerli bir kaynaktır.
+The "English Urban Dictionary" is a website that allows users to define words and expressions found in English street language, often in a humorous or ironic manner. It has become a valuable resource for understanding and using informal expressions frequently encountered in cross-cultural communication.
 
-Kullandığımız teknolojiler, kullanıcı deneyimini ön planda tutarak, yüksek performanslı ve SEO dostu bir web sitesi sunmayı amaçlar. Bu bağlamda, web sitemiz Next.js ve Tailwind CSS kullanılarak geliştirilmiştir.
+The technologies we employ aim to deliver a high-performance and SEO-friendly website, with a strong focus on user experience. In this context, our website has been developed using Next.js and Tailwind CSS.
 
-## Kullandigimiz Teknikler
+## Technologies Used
 
 - **Next.js**
 - **Tailwind CSS**
 - **Urban Dictionary RapidAPI**
 
-## Proje Dosya Yapısı
+## Project File Structure
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
+You can add a section that describes the file structure of your project. For example:
 
 - **/next**
 - **/node_modules**
@@ -37,13 +37,12 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 ---
 
-## Özellikler
+## Features
 
-- **Kullanıcı Tarafından Yazılan Tanımlar:** İngilizce argo ve sokak dilindeki kelimeler için zengin, kullanıcı odaklı içerik.
-- **Arama Fonksiyonu:** İstediğiniz kelimeleri veya ifadeleri hızlıca bulmanızı sağlayan güçlü bir arama özelliği.
-- **Uyarlanabilirlik:** Herhangi bir cihazdan rahat erişim için optimize edilmiş, kullanımı kolay bir arayüz.
+- **User-Written Definitions:** Rich, user-focused content for words in English slang and street language.
+- **Search Function:** A powerful search feature that allows you to quickly find the words or phrases you're looking for.
+- **Adaptability:** An easy-to-use interface optimized for access from any device, ensuring comfortable usability.
 
-## Lisans
+## License
 
-Bu proje [MIT Lisansı](https://license.md/licenses/mit-license/) altında lisanslanmıştır. Katkıda bulunmak isterseniz, lütfen katkıda bulunma rehberimize bakın.
-
+This project is licensed under the [MIT License](https://license.md/licenses/mit-license/). If you would like to contribute, please refer to our contribution guide.
